@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-site-pinkorchid: #cdb4db;
+  --color-site-pastelpetal: #ffc8dd;
+  --color-site-blushpop: #ffafcc;
+  --color-site-icyblue: #bde0fe;
+  --color-site-skyblue: #a2d2ff;
+}
